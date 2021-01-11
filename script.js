@@ -19,96 +19,96 @@ var questionArr = [
     {
         question: "What is the difference between <h1> and <h2>?",
         answer: {
-            a: 'jbkjb',
-            b: 'big',
+            a: 'h2 is bigger than h1',
+            b: 'h1 is equal to h2',
             c: 'h1 is bigger than h2',
-            d: 'small',
+            d: 'no difference',
         },
-        correctAnswer: '<h1> is bigger than <h2>'
+        correctAnswer: 'h1 is bigger than h2'
 
     },
 
     {
         question: "What is the purpose of the <body> element?",
         answer: {
-            a: '?',
-            b: '!',
-            c: '#',
-            d: '/',
+            a: 'Defines all of the visible elements that make up the body of the document.',
+            b: 'Determines the style of the HTML.',
+            c: 'Body element is used to display data on top of page.',
+            d: 'Defines all of the visible elements that make up the header of the document.',
         },
-        correctAnswer: "/"
+        correctAnswer: 'Defines all of the visible elements that make up the body of the document.'
     },
 
     {
         question: "What does CSS stand for?",
         answer: {
-            a: '?',
-            b: '!',
-            c: '#',
-            d: '/',
+            a: 'Cash Style Sheets',
+            b: 'Cascading Style Sheets',
+            c: 'Cascading Sheet Styles',
+            d: 'Computer Science Sheets',
         },
-        correctAnswer: "/"
+        correctAnswer: 'Cascading Style Sheets'
 
     },
     {
         question: "What is the correct HTML element for inserting a line break?",
         answer: {
-            a: '?',
+            a: '#',
             b: '!',
-            c: '#',
-            d: '/',
+            c: '<br',
+            d: '.',
         },
-        correctAnswer: "/"
+        correctAnswer: '<br'
     },
     {
         question: "Choose the correct HTML element to define bold text",
         answer: {
-            a: '?',
-            b: '!',
-            c: '#',
-            d: '/',
+            a: '<b>',
+            b: '<bt>',
+            c: 'bold',
+            d: '<BT>',
         },
-        correctAnswer: "/"
+        correctAnswer: '<b>'
     },
     {
         question: "How can you make an unordered list?",
         answer: {
-            a: '?',
-            b: '!',
-            c: '#',
-            d: '/',
+            a: '<ol',
+            b: '<uol>',
+            c: '<li>',
+            d: '<ul?',
         },
-        correctAnswer: "/"
+        correctAnswer: '<ul>'
     },
     {
         question: "How can you make a numbered list?",
         answer: {
-            a: '?',
-            b: '!',
-            c: '#',
-            d: '/',
+            a: '<li>',
+            b: '<ul>',
+            c: '<ol>',
+            d: '<nl>',
         },
-        correctAnswer: "/"
+        correctAnswer: '<ol>'
     },
     {
         question: "Inside which HTML element do we put the JavaScript?",
         answer: {
-            a: '?',
-            b: '!',
-            c: '#',
-            d: '/',
+            a: '<script>',
+            b: '<java>',
+            c: '<javascript>',
+            d: '<js>',
         },
-        correctAnswer: "/"
+        correctAnswer: '<script>'
     },
     {
         question: "Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?",
         answer: {
-            a: '?',
-            b: '!',
-            c: '#',
-            d: '/',
+            a: 'image',
+            b: 'alt',
+            c: 'read',
+            d: 'display',
         },
-        correctAnswer: "/"
+        correctAnswer: "alt"
     },
 ]
 

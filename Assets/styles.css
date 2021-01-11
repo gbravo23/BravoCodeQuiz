@@ -1,0 +1,33 @@
+body {
+    background: rgb(255, 255, 255);
+    box-sizing: border-box;
+    margin:10px 2rem;
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  
+  header nav, .nav-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  header, nav, a, .hi-score {
+    text-decoration: none;
+    color: rgb(9, 60, 228);
+  }
+  
+  header, nav, .time {
+    color: rgb(2, 1, 1); 
+  }
+.submitButton {
+    color: rgb(255, 255, 255);
+    background-color:  rgb(33, 4, 114);
+    border: none;
+    padding: 5px 20px;
+    margin:10px;
+    font-size: 1.2rem;
+    border-radius: 10px;
+  }
+.submitButton:hover {
+    background-color: rgb(9, 60, 228);
+  }
